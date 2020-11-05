@@ -73,18 +73,30 @@ deployment.yaml:
     - postgres.local`
 
 service.yaml:
-`   apiVersion: v1  
+`   apiVersion: v1
+
     kind: Service  
+    
     metadata:  
+    
       name: my-service  
-    spec:  
+      
+    spec: 
+    
       type: NodePort  
+      
       ports:  
+      
         - nodePort: 31317  
+        
           port: 8080  
+          
           protocol: TCP  
+          
           targetPort: 8080  
+          
       selector:  
+      
         app: my-app`
 
 **Dashboard UI:**
