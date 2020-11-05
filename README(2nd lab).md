@@ -74,4 +74,5 @@ service.yaml:
 ![](screen-6.jpg)
 ![](screen-7.jpg)
 
-[![Видео обзор на деплой в кластер minikube:](video_icon.png)](https://drive.google.com/file/d/1uqj94raamNxUSu3wIxXjIHt-TAE3VlMj/view?usp=sharing) [Видео обзор на деплой в кластер minikube:](https://drive.google.com/file/d/1uqj94raamNxUSu3wIxXjIHt-TAE3VlMj/view?usp=sharing)
+[![Видео обзор на деплой в кластер minikube:](video_icon.png)](https://drive.google.com/file/d/1uqj94raamNxUSu3wIxXjIHt-TAE3VlMj/view?usp=sharing)
+![Видео обзор на деплой в кластер minikube:](https://drive.google.com/file/d/1uqj94raamNxUSu3wIxXjIHt-TAE3VlMj/view?usp=sharing)
