@@ -14,6 +14,8 @@
 **Для деплоя приложения использовались следующие манифесты:**
 
 deployment.yaml:
+
+
 `    apiVersion: apps/v1  
     
     kind: Deployment  
@@ -74,7 +76,8 @@ deployment.yaml:
 
 service.yaml:
 
-``apiVersion: v1
+
+`apiVersion: v1
 
     kind: Service  
     
