@@ -1,4 +1,4 @@
-# SimpleApi (Java, Spring Boot, Maven, Postgres)
+# SimpleApi (Docker, Kubernetes (minikube))
 
 
 
@@ -60,11 +60,13 @@ service.yaml:
         app: my-app`
 
 **Dashboard UI:**
+
 ![](screen-1.jpg)
 ![](screen-2.jpg)
 ![](screen-3.jpg)
 
 **Terminal:**
+
 ![](screen-4.jpg)
 
 **Endpoints:**
@@ -73,4 +75,4 @@ service.yaml:
 ![](screen-7.jpg)
 
 
-![Видео обзор на деплой в кластер minikube:](https://drive.google.com/file/d/1uqj94raamNxUSu3wIxXjIHt-TAE3VlMj/view?usp=sharing)
+[Видео обзор на деплой в кластер minikube:](https://drive.google.com/file/d/1uqj94raamNxUSu3wIxXjIHt-TAE3VlMj/view?usp=sharing)
