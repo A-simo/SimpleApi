@@ -73,7 +73,8 @@ deployment.yaml:
     - postgres.local`
 
 service.yaml:
-`   apiVersion: v1
+
+`apiVersion: v1
 
     kind: Service  
     
