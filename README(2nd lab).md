@@ -15,34 +15,62 @@
 
 deployment.yaml:
 `    apiVersion: apps/v1  
+    
     kind: Deployment  
+    
     metadata:  
-      name: my-deployment  
+    
+    name: my-deployment  
+    
     spec:  
-      replicas: 10  
-      selector:  
-        matchLabels:  
-          app: my-app  
-      strategy:  
-        rollingUpdate:  
-          maxSurge: 1  
-          maxUnavailable: 1  
-        type: RollingUpdate  
-      template:  
-        metadata:  
-          labels:  
-            app: my-app  
-        spec:  
-          containers:  
-            - image: myapi:latest  
-              imagePullPolicy: Never   
-              name: myapi  
-              ports:  
-                - containerPort: 8080  
-          hostAliases:  
-          - ip: "127.0.0.1"  
-            hostnames:  
-            - postgres.local`
+    
+    replicas: 10  
+    
+    selector:  
+    
+    matchLabels:  
+    
+    app: my-app  
+    
+    strategy:  
+    
+    rollingUpdate:  
+    
+    maxSurge: 1  
+    
+    maxUnavailable: 1  
+    
+    type: RollingUpdate  
+    
+    template:  
+    
+    metadata:  
+    
+    labels:  
+    
+    app: my-app  
+    
+    spec:  
+    
+    containers:  
+    
+    - image: myapi:latest  
+    
+    imagePullPolicy: Never   
+    
+    name: myapi  
+    
+    ports:  
+    
+    - containerPort: 8080  
+    
+    hostAliases:  
+    
+    - ip: "127.0.0.1"  
+    
+    hostnames:  
+    
+    - postgres.local`
 
 service.yaml:
 `   apiVersion: v1  
