@@ -28,3 +28,16 @@
 3. Получение определенной позиции из таблицы по его id (по-умолчанию счет начинается с 1000): `http://localhost:8080/api/v1/products/{id}`
 4. Сохранение позиции в таблицу: `curl -X POST http://localhost:8080/api/v1/products -H "Content-Type:application/json" -d ' { "name": "item name", "brand": "brand", "price": 100, "details": "pieces" }'`
 5. Удаление позиции по ее id: `curl -X DELETE http://localhost:8080/api/v1/products/{id}`
+
+
+---
+
+**Лабораторная работа №3:** CI/CD и деплой приложения в Heroku.
+
+**Цель работы:** знакомство с CI/CD и его реализацией на примере Travis CI и Heroku.
+
+Адрес развернутого приложения: https://prilka.herokuapp.com/api/v1/status
+
+[![Build Status](https://travis-ci.org/A-simo/SimpleApi.svg?branch=main)](https://travis-ci.org/A-simo/SimpleApi)
+
+
