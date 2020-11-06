@@ -6,7 +6,7 @@ services:
   - docker
 env:
   global:
-    - secure: AGfV6RtD8frigCXbxpH3SG/8Nh8sloTXMgtP1/y5mQDyoDqgxFID92ACNMun63WMm4XExnqIBGfGvEj95rJvazXm0On0xrDvxQ2OGE3sr8WS3IYVJRNxWa7AuXhZe64MVEuzbSJY9j7GtAidr6ZP9IARt3ntbnHQFvClq6HS9Fn2Wxh5ijGLUItDNKqfhG4UkTkwy4crgmZwNkjmHK+7eGAqGA0DxTPEyzYG09D4CovCkK8KUTj21ImBLr/+b7dqsYx+CSCXY5dqxsYAK2Ml1A5MwICPVCAiYkFEwjF/jyitATa861U8yl0R7/Jt/mKzyc0GB9neLnZNTsEe1IbhuOZkHEiun/aDq4vDxY+7R12bHP9sgmJ4Ufk8gR9X71oyysOq1n7VeWk2xlckKb6lEMJxJnFPXH+xCKXmoFOX9Z4NiQ8dupouTfRQhmUeAsh1Rf9/toX+vNBz6dhAxlA2+c/ySH3J+KjIxVRcB6d3rbgyl0u9X3Dj802RD17+YwzSBXTrlzZzlHKkzwkidWodPd4rzs8tVoFWtxdiuD2rlCjIXIYL+QZhis93do0U9GQ9FynyatMreHGghxGlcHGZ7ELirf7ZPcIqFwFvxRHwMq98Tz8qR9RIikLXDtgrM8M+IRDX0DGwziBjjIlJVGJro39BTJZfs8WOHLuKyQKDRnY=
+    - secure: cvF0VqTTBr++Us8333VwHlwihuBxHz5dtNZSj5Y3VAbPPuNGI9pEAp1Rv00IYbB5f1ju0vCoDIxHjoT/ytjC8Crgwhm27dHr8CJlkpJOwIHvWKjz+0nUf99jofcb8UlVbkxSm7GG5XozRFB8cokO6i/07A0DB5iVGD+2FNlmsrJIYiIpmjBAiXC+Wxl1Bb+Gd0mtVHFsX1fx65C8/iXs7+q3054BrZV5mxOB2Q9OG1Ycj91jEPai56HXZoVp1NgogZX9qmMGZ+ROU9oVj7i0g5MX9XIOdcLPntduDY0bmV5O3cpy3cbzni6PtzF1QEfWOjK0v5cg8g1gae/7BoxCxpm6YrTT25YsWE4X6l1fcx3Y/4TbkVmPd7oIB2PiycqrB6NNI1bWXTTT+F6K+xUe3cOAJ7TK1GE4tUxLBuK1JUqMOoj8z1NOxaVHDjyvu+s5hw+9O9mVRFSGrscdjGNrEtLG3TVIrYsQPp6iUGEWrX/5c/InYfbJJf9cMJM1l3akJWSaAkzV4rHcEB5QvQR9vCCxvxYvxN+WEWiHXhcYWUHxH9wYqblh4TnPjhfGc9nvzUH+8wM8LugC1oESZi04JYb8oJTafoVJYCnC/Gc9/yRzRhhMqfvcq8U8MF1CgI/JapFINbptmeRaIePvZqc6zKsk4grVfuftQVreA4LWAHI=
     - secure: bglcdpK2FZwg1Nquj3JcHWynn2F5/Pn82n8DkDy/GtYYMbO/jHwhwxI7CUyN/c3gDKhedMZ+d/bmnpG20l7urS8GmeTDY8aoqiNL/9Pwth93XDynunuLjB4gzud4W2r6a33deADRVLKvXqDriX4OkdcRANPt92Hvqb1/+ea5/qapKdGUii4nljdzbz8BCGU7LHxOkuP2kYsPS6Oiokp4JDxfXLqMJsTzHpeFcqMLNDy43C3z9VRyMl2+cfjErrOAmVXcf5S4A698wN1v5loAMfgKawyNJoHi1+VEcoazFrk5s1v23rF5KPtylHLtthQ0e6UrqK4Q9oLyVJUm7ZX0Ie9DbhpPwPtAyxsguNf15Z780LBP+ya9p2xWJ36XRbAarQ+4J7b1b03fmXSvz+XXd1CY0ZLcIdENyDqc7dkORwv/JjF4rR+me9Cj2EV0V6aOije28S6KRRTu1yyawH+Pd6prCqTeMCbjrycvtyeBViXzixbg7MxGas/6ch1VEuXZRcKVo51P32/2Wl82K5Z8Uv4YA37ARj0KyAalFWcxy3Rh8pQNFdQY+OBquTeXc4qek90myCIIjmggU5cTdyDfKs1U06oXJAk9QM89HItwInP6/meAYOcTjCSfUyIXojAG0z8jBY+uICV0CFuwWpxwu6v54uSSfpZC9t3Uo+1OEPg=
     - secure: VZZw3SntvRj1Gwy2a+6q4hsVB7WQGzjTarT8eJJVvXw6RG/6KzhstUi/M6cb1VOzwFPb86szJmUDg9jmL2PuACIZZqx4r1P9Nic0Rxml03a/3J6LpA5WmpSXGbDoYb6R0O7yOrDuwU8GgD/mqEgBWIIc5sg9sabrpv41GxU+7oXdI5Lld+41QubnNL4oKWDo/fSGSjLXO6QpH9hXcxnAEuEuA0LzSzm3OrLHhDu2bEiBt6yp0R9/3FtlWkQ0VU/iLvCYYfy3ohqoMoLHxJi+zOBmMtbzJKrpYG29wVc2N3tc5Jo9XKlO/6LkGbY3lzQ+sDFtYyad9fWYFclapIHsgaEXRFidVtCQLeUrruOZJHPJeodJLr2f7FMy6Y7L2fIcv/YDi+MP4MSqXd+DX/RU9jHDfcGn4w41CfMDOHF+6ajq3+WP44SokdyvybqAoQmPFIXDD7lv8MPEwwwQQ/Z+Lne7t77zaIB+OhgFyE2mqYawAeAUbf64UoM7u9j0QOHmTFhfa/adyTahvJALRbevHEWsXZPfzXeFg27vsH6owj5vIfFQoNFeqg3dLg+75wjhIEUgC+Sm25WaYSe+76QS1VZKbMdbhbE6SFgR06KWWvFMLy7wFOm7pOoMN2aNGUfoL5nF34HXMlETC1YqY/nL0KyWd5Gzpmizce8evRhCzN0=
     - COMMIT=${TRAVIS_COMMIT::7}
@@ -18,7 +18,7 @@ after_success:
   - docker login -u $DOCKER_USER -p $DOCKER_PASS
   - export TAG=`if [ "$TRAVIS_BRANCH" == "master" ]; then echo "latest"; else echo "$TRAVIS_BRANCH"; fi`
 #  - export TAG=`if [ "$TRAVIS_BRANCH" == "main" ]; then echo "latest"; else echo "$TRAVIS_BRANCH"; fi`
-  - export IMAGE_NAME=simpleapi/repo
+  - export IMAGE_NAME=asimo1/repo
   - docker build -t $IMAGE_NAME:latest .
   - docker tag $IMAGE_NAME:latest $IMAGE_NAME:$TAG
   - docker push $IMAGE_NAME:$TAG
@@ -26,8 +26,8 @@ after_success:
 
 deploy:
   provider: heroku
-  api_key: $HEROKU_API_KEY
+  api_key: "$HEROKU_API_KEY"
   app: prilka
   on:
     branch: main
-#  skip_cleanup: true
+  skip_cleanup: true
