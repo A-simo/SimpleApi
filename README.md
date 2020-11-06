@@ -41,3 +41,17 @@
 [![Build Status](https://travis-ci.org/A-simo/SimpleApi.svg?branch=main)](https://travis-ci.org/A-simo/SimpleApi)
 
 
+
+
+
+---
+
+**Лабораторная работа №3:** CI/CD и деплой приложения в Heroku.
+
+**Цель работы:** знакомство с CI/CD и его реализацией на примере Travis CI и Heroku.
+
+Адрес развернутого приложения: https://prilka.herokuapp.com/api/v1/status
+
+[![Build Status](https://travis-ci.org/A-simo/SimpleApi.svg?branch=main)](https://travis-ci.org/A-simo/SimpleApi)
+
+
